@@ -47,6 +47,4 @@ function toReadable(number) {
     }
 }
 
-console.log(toReadable(219));
-
 module.exports = toReadable;
